@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# macOS
+.DS_Store
+
+# Dev tools
+.vscode
+
+# Temp files
+logs/
+
+# Models
+models/
